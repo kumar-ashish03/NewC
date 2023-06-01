@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 #AC_PREREQ(2.60)
-AC_INIT(NewC, 1.0, ajlennon@dynamicdevices.co.uk)
+AC_INIT(NewC, 1.0, kumar.ashish03@infosys.com)
 AC_CONFIG_SRCDIR([NewC.c])
 AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(NewC, main)
